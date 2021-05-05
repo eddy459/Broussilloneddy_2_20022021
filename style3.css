@@ -512,6 +512,9 @@ nav ul{
 .filtres div{
     margin:  0px 10px 10px 0x;
 }
+.resultats_filtres{
+    margin: 20px;
+}
 
 /* Section hébergement et populaire */
 .section_hebergements_et_populaires{
@@ -587,12 +590,17 @@ nav ul{
  
  /* Section hébergements et populaires */
  .section_hebergements_et_populaires{
-     flex-direction: column;
+     flex-direction: column-reverse;
+     width: auto;
  }
  .bloc_hebergements, .bloc_populaire{
-     margin: 10px 0px 10px Opx;
+     border-radius: 0%;
+     width: auto;
+     padding: 0 0 40px 0;
  }
-
+ .titre_et_icone_populaire{
+margin: 40px 20px 20px 20px;
+ }
  /*Section activités */
  
  .activites_a_marseille{
