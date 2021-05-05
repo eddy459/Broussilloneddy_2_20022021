@@ -272,6 +272,7 @@ body{
     background-color: #F2F2F2;
     border-radius: 20px;
     box-shadow: 1px 1px 10px grey;
+    margin: 10px 20px 10px 20px;
     height: 140px;
     min-width: 300px;
     cursor: pointer;
@@ -402,10 +403,7 @@ footer h3{
     font-weight: bold;
     font-size: 0,9em;
 }
-footer h3{
-    font-weight: bold;
-    font-size: 0,9em;
-}
+
 
 footer a{
     color: black;
