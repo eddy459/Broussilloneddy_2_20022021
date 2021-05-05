@@ -262,6 +262,11 @@ body{
   font-weight: bold;
   margin: 0px;
 }
+.bloc_apercu_populaire{
+ display: flex;
+ flex-direction: column; 
+ margin: 20px;
+}
 .apercu_populaire{
     display: flex;
     background-color: #F2F2F2;
